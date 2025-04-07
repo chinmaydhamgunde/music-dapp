@@ -2,6 +2,8 @@
 
 A decentralized music streaming application built on the Ethereum blockchain. Users can upload, play, and interact with songs while earning and distributing MUSIC tokens. This prototype integrates decentralized storage (IPFS), smart contracts, real-time data tracking (Firestore), and a sleek React frontend.
 
+🚀 **Live Demo:** [music-dapp.netlify.app](https://music-dapp.netlify.app)
+
 ---
 
 ## 🚀 Features
